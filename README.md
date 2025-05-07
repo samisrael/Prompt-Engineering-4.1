@@ -2,6 +2,8 @@
 # EXP 4 Scenario-Based Report Development Utilizing Diverse Prompting Techniques  
 ## Lab Scenario: Smart Health Assistant System  
 
+
+
 ### Description:
 
 #### Background  
@@ -22,7 +24,10 @@ Develop a scenario-based report that demonstrates how diverse prompting techniqu
 6. **Document Findings**: Record how each prompting style impacts the response quality.
 
 ---
-
+```
+Name    : Sam Israel D
+Reg. No : 212222230128
+```
 ### Output
 
 #### Scenario 1: Zero-shot Prompting  
